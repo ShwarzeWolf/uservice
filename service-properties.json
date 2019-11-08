@@ -1,0 +1,12 @@
+{
+  "database": {
+    "url": "jdbc:mysql://*****:3306/*****",
+    "user": "*****",
+    "password": "*****",
+    "driver": "com.mysql.jdbc.Driver",
+    "mode": "open"
+  },
+  "server": {
+    "port": 8080
+  }
+}
